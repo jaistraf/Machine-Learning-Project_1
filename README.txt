@@ -1,8 +1,14 @@
-Datset source:
-Andrada Olteanu, James Wiltshire, Lauren O’Hare and Minyu Lei. GTZAN Dataset - Music Genre Classification. https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
+COMP30027 Assignment 1 - Naive Bayes Classifier
+Student ID: 1268470
 
-Edited for COMP30027 Machine Learning semester 1 2023 The University of Melbourne
+Task 1 is a classical vs pop classifier
 
-First column is the filename of the audio clip from the GZTAN dataset
-Columns 2-57 are extracted audio features
-Column 58 is the class label
+Task 2, Q6: modifies the classifier to work with missing data, then runs simulations of how well the classifier works against the % of missing data
+
+To run the code:
+- Run the cells from top to bottom as you normally would I expect
+	- note that each function is separated into their own cell for easier usage and readability, so ensure no functions are missed*
+- As you run the cells from top to bottom, you will reach different sections (Task 1: Q1 then Q2, then Task 2)
+	- the relevant cells in those sections will also produce the graphics & statistical analysis used in the written report .pdf
+
+Note that functions are explained by the comments in the .ipynb notebook. Enjoy!
